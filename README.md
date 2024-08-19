@@ -24,3 +24,26 @@ To get started with Q-Buster, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Vardhan-Harsh07/q-buster.git
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd q-buster
+3. **Install Dependencies:**
+   ```bash
+   npm install
+4. **Start the Development Server:**
+   ```bash
+   npm start
+5. **Access the Application:**
+   ```bash
+   Open your browser and go to http://localhost:3000 to view the application.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please reach out to vardhanharsh806@gmail.com.
+
+   
+
